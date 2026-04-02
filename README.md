@@ -1,8 +1,11 @@
-# vanilla-web-template
+# 🎨 Title: vanilla-web-template
 
-### one-line description
+### one-line description : [vanilla-web-template link](https://github.com/Devansh-pipraiya/vanilla-web-template)
 
-This project is part of **The Odin Project** course,built to practice:
+**Project Overview:**
+This project is part of **[The Odin Project](https://www.theodinproject.com)** course,built to practice:
+
+- some points
 
 ---
 
@@ -14,11 +17,11 @@ This project is part of **The Odin Project** course,built to practice:
 
 ## Preview 👀
 
-<!-- [![Demo]()]() -->
+<!-- [![Demo](link)](link) -->
 
 ## 📚 What I Learned
 
-## 📌 Attributions
+## 📍 Attributions
 
 | Resource | Source |
 | -------- | ------ |
