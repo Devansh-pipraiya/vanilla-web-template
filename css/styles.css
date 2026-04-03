@@ -82,5 +82,31 @@ h1, h2, h3, h4, h5, h6 {
 
 body {
   font-family: var(--font-system);
+  background-color: var(--clr-bg);
   min-height: 100vh;
+}
+
+
+/* ==========================================
+                    FOOTER
+   ========================================== */
+
+footer > .footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 5px 0;
+  font-size: 1rem;
+  color: var(--clr-text-light);
+}
+footer .github-logo {
+  width: 26px;
+  height: 26px;
+  transition: transform 0.3s ease-in-out;
+  fill:var(--clr-text);
+}
+footer .github-logo:hover {
+  transform: rotate(360deg) scale(1.2);
 }
